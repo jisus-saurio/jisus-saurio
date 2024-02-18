@@ -19,10 +19,14 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualBox&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)]()
 
+## Logros:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jisus-saurio&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=jisus-saurio&show_icons=true)
 
+
+## Frase:
 
 <pre>
                                                      ___
