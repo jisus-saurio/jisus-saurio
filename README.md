@@ -23,7 +23,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jisus-saurio&theme=dracula&no-frame=true&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=jisus-saurio&show_icons=true)
+![jisus-saurio's stats](https://github-readme-stats.vercel.app/api?username=jisus-saurio&show_icons=true)
 
 
 ## Frase:
