@@ -57,7 +57,7 @@
 </pre>
 <div align="center">
 
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Mis contribuciones 🐍</h2>
 
   <br>
 
