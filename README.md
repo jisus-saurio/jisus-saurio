@@ -21,7 +21,7 @@
 
 ## Logros:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jisus-saurioryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?jisus-saurio=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
