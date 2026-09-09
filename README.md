@@ -1,11 +1,27 @@
-<h1 align="center">✨Hola✨</h1>
-<h2 align="center">Soy Jisus, y te doy la bienvenida a mi github</h2>
-<h3 align="center">Un pequeño entusiasta de Software y creador de dibujos</h3>
+<div align="left">
 
-<h5 align="center">Aquí encontrarás las herramientas y entornos que desarrollé, procuraré ser conciso y hacer todo lo más fácil e intuitivo para que su uso sea eficiente y efervecente como las burbujitas sí señor, si en algún punto tienes dudas, comentarios o sugerencias no dudes en hacermelo saber en mi red social! 
-<p><sup><sub>Recuerda siempre leer las letras chiquitas jeje</sub></sup></h5>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R1MHB4d2EzeTl0MGI2NXdzOThkOHUzb2kyeWdrN2I3bWlyejc5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif" width="26%" align="right" alt="GIF Lateral" />
 
-## Tecnologías:
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=00E5FF&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=550&height=120&lines=Hola+Soy+Jisus+Saurio;Estudiante+y+dibujante+%E2%9C%A9" width="55%" />
+
+<br><br>
+
+<pre>
+  💻 Estudiante de Desarrollo de Software
+  🛠️ Front-end • Back-end • Lógica
+  🎮 Anime • Código • Proyectos personales
+  ✏️ Dibujante y pintor
+</pre>
+</div>
+
+<br clear="right" />
+<br>
+<div>
+<div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdoNjhiZDZqaWlic3c2Z3lneHlmZDk4YTllbjZxejY2Z2JnNnIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDSnoXA3t6BYtfr9M6/giphy.gif" width="23%" align="left" style="margin-right: 20px;" alt="Tech Banner" />
+
+<h3>Tecnologías:</h3>
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
@@ -16,7 +32,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GitHUb](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-FC6D26?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
 [![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photopea&logoColor=white&labelColor=101010)]()
@@ -25,31 +41,6 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualBox&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)]()
 
-## Frase:
+</div>
 
-<pre>
-                                                     ___
-                                                  ,o88888
-                                               ,o8888888'
-                         ,:o:o:oooo.        ,8O88Pd8888"
-                     ,.::.::o:ooooOoOoO. ,oO8O8Pd888'"
-                   ,.:.::o:ooOoOoOO8O8OOo.8OOPd8O8O"
-                  , ..:.::o:ooOoOOOO8OOOOo.FdO8O8"
-                 , ..:.::o:ooOoOO8O888O8O,COCOO"
-                , . ..:.::o:ooOoOOOO8OOOOCOCO"
-                 . ..:.::o:ooOoOoOO8O8OCCCC"o
-                    . ..:.::o:ooooOoCoCCC"o:o
-                    . ..:.::o:o:,cooooCo"oo:o:
-                 `   . . ..:.:cocoooo"'o:o:::'
-                 .`   . ..::ccccoc"'o:o:o:::'
-                :.:.    ,c:cccc"':.:.:.:.:.'
-              ..:.:"'`::::c:"'..:.:.:.:.:.'
-            ...:.'.:.::::"'    . . . . .'
-           .. . ....:."' `   .  . . ''
-         . . . ...."'
-         .. . ."'                  
-        .
- "Y nosotros donde estamos
-  -Estamos en la luna."
-------------------------------------------------
-                                           
+<br clear="left" />
